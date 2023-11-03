@@ -1,1 +1,5 @@
-# word-similarty-clustering:-  In this repositery we have used similarity techniques using to word2vec.You can get the code from this repositery.
+### word-similarty-clustering
+Problem Statement: Find the similar  word in the given corpus.
+* Steps:-
+* used Word2vec pretrained model to get the vecor
+* find the similar words
